@@ -1,0 +1,21 @@
+{
+  "private": false,
+  "version": "1.0.4",
+  "name": "byurhanbeyzat",
+  "description": "The Byurhan Beyzat CLI",
+  "author": "Byurhan Beyzat <byurhanbeyzat@gmail.com>",
+  "repository": "https://github.com/byurhanbeyzat/byurhanbeyzat.git",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  },
+  "bin": {
+    "byurhanbeyzat": "./src/cli.js"
+  },
+  "keywords": [
+    "cli",
+    "cli-app",
+    "byurhanbeyzat"
+  ]
+}
